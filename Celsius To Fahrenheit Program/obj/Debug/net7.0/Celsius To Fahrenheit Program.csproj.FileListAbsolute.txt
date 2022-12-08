@@ -1,0 +1,15 @@
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.csproj.AssemblyReference.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.AssemblyInfoInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.AssemblyInfo.cs
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/bin/Debug/net7.0/Celsius To Fahrenheit Program
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/bin/Debug/net7.0/Celsius To Fahrenheit Program.deps.json
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/bin/Debug/net7.0/Celsius To Fahrenheit Program.runtimeconfig.json
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/bin/Debug/net7.0/Celsius To Fahrenheit Program.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/bin/Debug/net7.0/Celsius To Fahrenheit Program.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/refint/Celsius To Fahrenheit Program.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/Celsius To Fahrenheit Program.genruntimeconfig.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Celsius To Fahrenheit Program/obj/Debug/net7.0/ref/Celsius To Fahrenheit Program.dll
